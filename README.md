@@ -242,7 +242,7 @@ The Admin Console is a **tablet-first interface** with large touch targets, desi
 | Join queue (on behalf) | ❌ | ✅ via Admin | ✅ |
 | On leave / I'm back | ✅ | ✅ via Admin | ✅ |
 | View court board | ✅ | ✅ via TV | ✅ |
-| Form a team | ✅ | ❌ | ❌ |
+| Form a team | ✅ | ❌ | ✅ |
 | Receive push notifications | ✅ | ❌ | ❌ |
 | Start/close session | ❌ | ❌ | ✅ |
 | Set court status | ❌ | ❌ | ✅ |
